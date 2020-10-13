@@ -107,7 +107,7 @@ for filename in os.listdir('./cogs'):
         
     
 #input your bot token into the parentheses get from bot tab
-client.run('NzYzOTAxMjQyNjAyNDIyMzAy.X3-ceA.xkT9T3-HkRoH0JFACIO7KgjPiro')
+client.run('Token')
 
 
 
